@@ -1,2 +1,2 @@
 # Burger-shop-system
-"Simple burger shop management system built with java"
+"Simple burger shop management system built with java concepts"
